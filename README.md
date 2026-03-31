@@ -91,7 +91,19 @@ The objective is to gather intelligence **without directly interacting with the 
 ### Screenshots on obtained details
 
 ### IPINFO
+![IP Info](screenshots/IPINFO.png)
 
+### WHOIS Lookup
+![WHOIS](screenshots/NSlookup.png)
+
+### DNS Records
+![DNS](screenshots/NS records.png)
+
+### Personal info Lookup
+![Personal](screenshots/Personal details lookup.png)
+
+### Faculty Record
+![Faculty](screenshots/Faculty record.png)
 
 ---
 
