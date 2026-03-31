@@ -97,30 +97,30 @@ The objective is to gather intelligence **without directly interacting with the 
 ![WHOIS](screenshots/NSlookup.png)
 
 ### DNS Records
-![DNS](screenshots/NS records.png)
+![DNS](screenshots/NSrecords.png)
 
 ### Personal info Lookup
-![Personal](screenshots/Personal details lookup.png)
+![Personal](screenshots/Personaldetailslookup.png)
 
 ### Faculty Record
-![Faculty](screenshots/Faculty record.png)
+![Faculty](screenshots/Facultyrecord.png)
 
 ---
 
-## 📄 Full Report
+##  Full Report
 
 👉 [View Detailed Report](./OSINT_Recon_Report.pdf)
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project was conducted in a **controlled and ethical manner** using only publicly available information.
 No active exploitation or unauthorized access was performed.
 
 ---
 
-## 🚀 Learning Outcome
+## Learning Outcome
 
 * Gained hands-on experience in **OSINT techniques**
 * Understood **real-world reconnaissance methodology**
