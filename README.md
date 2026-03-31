@@ -1,13 +1,13 @@
 # 🔍 OSINT & Passive Reconnaissance Project
 
-## 📌 Overview
+##  Overview
 
 This project focuses on performing **Open Source Intelligence (OSINT)** and **passive reconnaissance** on a target domain using publicly available information.
 The objective is to gather intelligence **without directly interacting with the target system**, ensuring a legal and non-intrusive approach.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Identify target infrastructure and hosting details
 * Gather domain and DNS information
@@ -16,7 +16,7 @@ The objective is to gather intelligence **without directly interacting with the 
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * **WHOIS** – Domain registration details
 * **nslookup / dig** – DNS information gathering
@@ -26,7 +26,7 @@ The objective is to gather intelligence **without directly interacting with the 
 
 ---
 
-## 🔍 Methodology
+##  Methodology
 
 ### 🔹 Phase 1: Domain & Network Identification
 
@@ -68,7 +68,7 @@ The objective is to gather intelligence **without directly interacting with the 
 
 ---
 
-## 💥 Key Findings
+##  Key Findings
 
 * Target uses **AWS CloudFront CDN**, masking origin server IP
 * Infrastructure hosted on **Amazon AWS (AS16509)**
@@ -78,7 +78,7 @@ The objective is to gather intelligence **without directly interacting with the 
 
 ---
 
-## 📊 Risk Assessment
+##  Risk Assessment
 
 | Category                  | Risk Level |
 | ------------------------- | ---------- |
@@ -90,7 +90,8 @@ The objective is to gather intelligence **without directly interacting with the 
 
 ### Screenshots on obtained details
 
-### 
+### IPINFO
+
 
 ---
 
